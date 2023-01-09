@@ -11,3 +11,5 @@ This checkout uses an automated Chrome webdriver to navigate through the site an
 ### Usage
 
 Use any editor and edit the variables of the item you want to purchase. Add checkout information and bank card information to the script. Run the python script.
+
+**Make sure the path of the Webdriver in the script matches the path of your Webdriver's installation.**
